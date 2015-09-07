@@ -1,0 +1,1 @@
+IMPORTANT: The repository has been moved to https://github.com/JetBrains/intellij-sdk-docs/tree/master/code_samples/simple_language_plugin
